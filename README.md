@@ -6,4 +6,4 @@
 - 📫 How to reach me: 
         DISCORD: Furiia#4197 <-- Add me, and explain your intention.
         TEL: 07 81 12 35 71
-- [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />] [Blog]
+- [<img align="left" alt="medium" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />]
